@@ -9,3 +9,10 @@ pass6.py generates the p6_pairs.all similarity matrix.
 
   pass6.py >p6_pairs.all
 
+
+make_normal_modelseed_table.py
+
+   This reads all the ModelSEED reaction tsv tables in the modelseed root directory 
+    and makes a "normal" table (single records) of reaction, genome, gene.
+
+./make_normal_modelseed_table.py >modelseed_rxn_genome_gene.tab 
