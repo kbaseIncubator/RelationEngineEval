@@ -1,7 +1,7 @@
 
-scripts to bootstrap the GSP query app
+####These is the program and associated fake api, as well as scripts to bootstrap the GSP query app.
 
-SupportScripts contain scripts that build ascii tables used by the basis program
+#####SupportScripts contain scripts that build ascii tables used by the basis program as proxies for the graphDB.
 
 pass6.py generates the p6_pairs.all similarity matrix.
 
